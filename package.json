@@ -33,7 +33,8 @@
     "tsup": "^8.0.0"
   },
   "files": [
-    "dist"
+    "dist",
+    "templates"
   ],
   "keywords": [
     "create",
