@@ -12,10 +12,9 @@
         "clean": "rm -rf .float dist"
     },
     "dependencies": {
-        "@float-v/core": "workspace:*",
-        "@float-v/showcase-mobile": "workspace:*",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
+        "@float-v/core": "^1.0.0",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
         "react-native-web": "^0.19.13"
     },
     "devDependencies": {

@@ -15,9 +15,9 @@ ${pc.cyan("\u255A\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2
 `;
 var templates = [
   {
-    title: `Web ${pc.dim("(Next.js + @float-v/core)")}`,
+    title: `Web ${pc.dim("(Float-V Core / SSR)")}`,
     value: "web",
-    description: "Modern web application with SSR, layouts, and routing."
+    description: "High-performance web application with native SSR and file-based routing."
   },
   {
     title: `Mobile ${pc.dim("(Expo + @float-v/lite)")}`,
