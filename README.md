@@ -16,7 +16,7 @@ Follow the interactive prompts to choose your project type and name.
 
 | Template | Stack | Description |
 | :--- | :--- | :--- |
-| **Web** | Next.js + `@float-v/core` | Full-stack web app with SSR, layouts, and routing. |
+| **Web** | `@float-v/core` (SSR) | High-performance web app with native SSR and file-based routing. |
 | **Mobile** | Expo + `@float-v/lite` | Cross-platform mobile app for iOS and Android. |
 | **Server** | Headless + `@float-v/core` | API-only server for real-time and headless workloads. |
 
